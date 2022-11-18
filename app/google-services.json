@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559018465906",
+    "project_id": "fir-lessons-fe62f",
+    "storage_bucket": "fir-lessons-fe62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559018465906:android:8b37719c8dbe452cbac0eb",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559018465906-e55t1necji27b6jduc50mec2np4cvmds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTdu271qRuYTu3gKDQ9Zt8VgCE7oZQQ_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559018465906-e55t1necji27b6jduc50mec2np4cvmds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
